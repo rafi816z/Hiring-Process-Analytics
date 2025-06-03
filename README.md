@@ -1,5 +1,5 @@
 # Hiring-Process-Analytics
-Description 
+## 📊 Project Description
 
 This project analyzes the hiring process of a company to uncover insights 
 about gender distribution, salary trends, departmental hiring rates, and position 
